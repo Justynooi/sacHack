@@ -21,7 +21,6 @@ main {
     justify-content: center;
 }
 
-
 .main {
     display: flex;
     flex-direction: column;
@@ -37,17 +36,13 @@ main {
     margin-top: 170px;
 }
 
-#search {
-    margin-top: 70px;
-}
-
-#create {
+.title {
     margin-top: 70px;
 }
 
 .sign-up-form {
     width: 300px;
-    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #fff;
     padding: 20px;
     margin: 8% auto 0;
